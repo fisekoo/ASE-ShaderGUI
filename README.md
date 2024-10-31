@@ -28,7 +28,7 @@ A custom shader GUI with surface options and some drawers.
     | Parameter | Description |
     | --- | --- |
     | min | x value of vec2 |
-    | min | y value of vec2 |
+    | max | y value of vec2 |
     | rangemin | min value of vec2 |
     | rangemax | max value of vec2 |
 ## Surface Options setup for ASE
