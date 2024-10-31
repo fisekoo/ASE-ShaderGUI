@@ -2,7 +2,7 @@
 A custom shader GUI with surface options and some drawers.
 ![dd](https://github.com/user-attachments/assets/67ab5ff7-4a84-4822-80a4-031c663aa33d)
 #### Key Features
-+ Surface Options see [here]() for setup. (Surface Type, Render Face, Depth Write, Depth Test, Alpha Clip, Cast Shadows)
++ Surface Options see [here](https://github.com/fisekoo/ASE-ShaderGUI?tab=readme-ov-file#surface-options-setup-for-ase) for setup. (Surface Type, Render Face, Depth Write, Depth Test, Alpha Clip, Cast Shadows)
 + Easy to implement to your custom GUI with public functions for surface options.
 + Useful animatable properties.
 #### Drawers
