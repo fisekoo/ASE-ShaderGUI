@@ -9,12 +9,11 @@ namespace Fisekoo.Drawers
         private Vector2 _value;
         private readonly Vector2 _range;
 
-        public RangeDrawer() : this(0f, 1f, 0f, 1f) { }
+        public RangeDrawer() : this(0f, 1f) { }
 
-        public RangeDrawer(float mn, float mx, float rx, float ry)
+        public RangeDrawer(float rx, float ry)
         {
-            _value = new Vector2(mn, mx);
-            _range = new Vector2(rx, ry);
+            _value = _range = new Vector2(rx, ry);
         }
 
         private static bool IsPropertyVector(MaterialProperty prop)
