@@ -24,6 +24,13 @@ A custom shader GUI with surface options and some drawers.
     | Parameter | Description |
     | --- | --- |
     | vecType | 2 if vector2, 3 if vector3. |
++ ##### Range(min, max, rangemin, rangemax)
+    | Parameter | Description |
+    | --- | --- |
+    | min | x value of vec2 |
+    | min | y value of vec2 |
+    | rangemin | min value of vec2 |
+    | rangemax | max value of vec2 |
 ## Surface Options setup for ASE
   + First, create these properties. Don't forget to auto-register and add Hide in Inspector attribute to them. (multiply your alpha threshold with _ALPHATEST_ON before you plug in, that's why it's registered.)
     http://paste.amplify.pt/view/raw/3962eb69
