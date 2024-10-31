@@ -25,11 +25,11 @@ A custom shader GUI with surface options and some drawers.
     | --- | --- |
     | vecType | 2 if vector2, 3 if vector3. |
 + ##### Range(x, y, rangemin, rangemax)
-    min and max is basically useless, I should probably remove that, but I'm too lazy, would you do it? 🥺
+    x and y is basically useless, I should probably remove that, but I'm too lazy, would you do it? 🥺
     | Parameter | Description |
     | --- | --- |
-    | x | x value of vec2 | (just put your range min)
-    | y | y value of vec2 | (just put your range max)
+    | x | just put your range min |
+    | y | just put your range max |
     | rangemin | min value of vec2 |
     | rangemax | max value of vec2 |
 ## Surface Options setup for ASE
