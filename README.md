@@ -25,6 +25,7 @@ A custom shader GUI with surface options and some drawers.
     | --- | --- |
     | vecType | 2 if vector2, 3 if vector3. |
 + ##### Range(min, max, rangemin, rangemax)
+    min and max is basically useless, I should probably remove that, but I'm too lazy, would you do it? 🥺
     | Parameter | Description |
     | --- | --- |
     | min | x value of vec2 |
