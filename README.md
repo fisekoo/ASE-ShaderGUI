@@ -10,25 +10,25 @@ Usage: Create a property, go to attributes, at the bottom tick Custom, add an at
 
 <img src="https://github.com/user-attachments/assets/c26bd52c-b029-43bc-8999-a2c3b1d79b33" width=40% height=40%>
  
-+ ##### Gradient(resolution, hdr)
++ ##### Gradient(resolution, hdr) (Texture property)
     | Parameter | Description |
     | --- | --- |
     | resolution | resolution of gradient texture that will be created |
     | hdr (bool) | yeah. |
-+ ##### BoxHeader(fontSize)
++ ##### BoxHeader(fontSize) (float property)
     | Parameter | Description |
     | --- | --- |
     | fontSize | you guessed it. |
-+ ##### Line(r,g,b,thickness)
++ ##### Line(r,g,b,thickness) (float property)
     | Parameter | Description |
     | --- | --- |
     | r,g,b | 0-255 channel. |
     | thickness | i wonder what it is. |
-+ ##### Vector(vecType)
++ ##### Vector(vecType) (Vector property)
     | Parameter | Description |
     | --- | --- |
     | vecType | 2 if vector2, 3 if vector3. |
-+ ##### Range(rangemin, rangemax)
++ ##### Range(rangemin, rangemax) (Vector2 property)
     | Parameter | Description |
     | --- | --- |
     | rangemin | min value of vec2 |
