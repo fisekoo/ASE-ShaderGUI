@@ -7,7 +7,8 @@ A custom shader GUI with surface options and some drawers.
 + Useful animatable properties.
 #### Drawers
 Usage: Create a property, go to attributes, at the bottom tick Custom, add an attribute. (Don't forget to tick auto-register for dummy properties like headers and lines.)
-![image](https://github.com/user-attachments/assets/c26bd52c-b029-43bc-8999-a2c3b1d79b33)
+
+<img src="https://github.com/user-attachments/assets/c26bd52c-b029-43bc-8999-a2c3b1d79b33" width=40% height=40%>
  
 + ##### Gradient(resolution, hdr)
     | Parameter | Description |
